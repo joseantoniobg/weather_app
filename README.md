@@ -1,6 +1,6 @@
 # weather_app
 
-A new Flutter project.
+An app to learn the bloc logic and implementation.
 
 ## Getting Started
 
